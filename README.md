@@ -62,3 +62,12 @@ NodeJS
             index.js
 
                 import those exported mehtods here and invoke them and log the results.
+
+    Asynchronous Programming
+
+        executing two or more routines parellelly.
+
+            setInterval(callback,duration);     the callback is invoked repeadtly once after the duration.
+            clearInterval(handleOfSetInterval); is used to stop the iteration.
+
+            setTimeout(callback,duration);     the callback is invoked only once after the duration.
